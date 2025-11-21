@@ -1,7 +1,4 @@
 """
-    https://github.com/DarkCoderSc
-    https://twitter.com/DarkCoderSc
-    www.phrozen.io
 
     Todo:
         - Find a workaround for the Wayland issue for positioning the window.
@@ -103,3 +100,4 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
