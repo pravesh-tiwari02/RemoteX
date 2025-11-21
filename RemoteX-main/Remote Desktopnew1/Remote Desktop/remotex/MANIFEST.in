@@ -1,0 +1,9 @@
+include README.md
+include LICENSE
+include DISCLAIMER.md
+include requirements.txt
+
+include remotex_viewer/assets/*
+
+exclude remotex_viewer/assets/default.json
+recursive-exclude .DS_Store
